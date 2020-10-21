@@ -4,10 +4,11 @@
 
 <img src="https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white"/><img src="https://img.shields.io/badge/Java%20-%23E72D2E.svg?&style=for-the-badge&logo=Java&logoColor=white" /><img src="https://img.shields.io/badge/PyTorch%20-%23EE4C2C.svg?&style=for-the-badge&logo=PyTorch&logoColor=white" /><img src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white" /><img src="https://img.shields.io/badge/Jupyter%20-%23F37726.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" /><img src="https://img.shields.io/badge/IPFS%20-%236acad1.svg?&style=for-the-badge&logo=IPFS&logoColor=white"><img src="https://img.shields.io/badge/Postgres%20-%23315F92.svg?&style=for-the-badge&logo=Postgresql&logoColor=white" /><img src="https://img.shields.io/badge/C/C++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/><img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/AWS%20-%231C2632.svg?&style=for-the-badge&logo=Amazon&logoColor=white" /><img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/><img src="https://img.shields.io/badge/ZSH%20-%23000000.svg?&style=for-the-badge&logo=shell&logoColor=white" />
 </p>
+
 ## Stats
 
 <p style="text-align: center">
-<img src="https://github-readme-stats.vercel.app/api?username=sam1902&theme=algolia&show_icons=true" alt="dev-stats" height="200">
+<img src="https://github-readme-stats.vercel.app/api?username=sam1902&theme=algolia&show_icons=true&hide_border=true" alt="dev-stats" height="200">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?theme=algolia&username=sam1902&layout=compact&hide_border=true&langs_count=10&hide=fortran" alt="used-languages" height="200">
 </p>
 
