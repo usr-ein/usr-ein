@@ -116,6 +116,7 @@ ___
 
 ![Banner](https://raw.githubusercontent.com/sam1902/sam1902/a068b84b31b42b18c59cf7ee5cd71a75e2a61eef/images/banner_blank_2.png)
 <hr>
+
 Here are some [parrots](https://cultofthepartyparrot.com), thank you [@ashleymavericks](https://github.com/ashleymavericks/ashleymavericks):
 
 <div>
