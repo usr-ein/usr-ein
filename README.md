@@ -29,8 +29,8 @@ ___
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?theme=algolia&username=usr-ein&repo=GradCAM-Keras)](https://github.com/usr-ein/GradCAM-Keras)
 
 <p style="text-align: center">
-<img src="https://raw.githubusercontent.com/sam1902/sam1902/a068b84b31b42b18c59cf7ee5cd71a75e2a61eef/images/grad-cam.gif" alt="grad-cam" height="300">
-<img src="https://raw.githubusercontent.com/sam1902/sam1902/a068b84b31b42b18c59cf7ee5cd71a75e2a61eef/images/grad-cam-glasses.jpg" alt="grad-cam" height="400">
+<img src="https://raw.githubusercontent.com/usr-ein/usr-ein/a068b84b31b42b18c59cf7ee5cd71a75e2a61eef/images/grad-cam.gif" alt="grad-cam" height="300">
+<img src="https://raw.githubusercontent.com/usr-ein/usr-ein/a068b84b31b42b18c59cf7ee5cd71a75e2a61eef/images/grad-cam-glasses.jpg" alt="grad-cam" height="400">
 </p>
 
 ___
@@ -38,82 +38,82 @@ ___
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?theme=algolia&username=rtqichen&repo=torchdiffeq)](https://github.com/rtqichen/torchdiffeq)
 
 <p style="text-align: center">
-<img src="https://raw.githubusercontent.com/sam1902/sam1902/a068b84b31b42b18c59cf7ee5cd71a75e2a61eef/images/neural-ode.gif" alt="neural-ode-run" height="300">
-<img src="https://raw.githubusercontent.com/sam1902/sam1902/a068b84b31b42b18c59cf7ee5cd71a75e2a61eef/images/resnet-vs-odesolver.png" alt="neural-ode-vs-resnet" height="500">
+<img src="https://raw.githubusercontent.com/usr-ein/usr-ein/a068b84b31b42b18c59cf7ee5cd71a75e2a61eef/images/neural-ode.gif" alt="neural-ode-run" height="300">
+<img src="https://raw.githubusercontent.com/usr-ein/usr-ein/a068b84b31b42b18c59cf7ee5cd71a75e2a61eef/images/resnet-vs-odesolver.png" alt="neural-ode-vs-resnet" height="500">
 </p>
 
 ___
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?theme=algolia&username=sam1902&repo=GeneEvolvedNeuralNet)](https://github.com/sam1902/GeneEvolvedNeuralNet)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?theme=algolia&username=usr-ein&repo=GeneEvolvedNeuralNet)](https://github.com/usr-ein/GeneEvolvedNeuralNet)
 
 
 <p style="text-align: center">
-<img src="https://raw.githubusercontent.com/sam1902/sam1902/a068b84b31b42b18c59cf7ee5cd71a75e2a61eef/images/geneevolvedneuralnet.jpg" alt="function-fit-genetic-evol" height="500">
-<img src="https://raw.githubusercontent.com/sam1902/sam1902/a068b84b31b42b18c59cf7ee5cd71a75e2a61eef/images/evol_train_opti.gif" alt="unity-genetic-evol-reinforcement" height="400">-
+<img src="https://raw.githubusercontent.com/usr-ein/usr-ein/a068b84b31b42b18c59cf7ee5cd71a75e2a61eef/images/geneevolvedneuralnet.jpg" alt="function-fit-genetic-evol" height="500">
+<img src="https://raw.githubusercontent.com/usr-ein/usr-ein/a068b84b31b42b18c59cf7ee5cd71a75e2a61eef/images/evol_train_opti.gif" alt="unity-genetic-evol-reinforcement" height="400">-
 </p>
 
 ___
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?theme=algolia&username=sam1902&repo=CoSyNEPy)](https://github.com/sam1902/CoSyNEPy)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?theme=algolia&username=usr-ein&repo=CoSyNEPy)](https://github.com/usr-ein/CoSyNEPy)
 
 <p style="text-align: center">
-<img src="https://raw.githubusercontent.com/sam1902/sam1902/a068b84b31b42b18c59cf7ee5cd71a75e2a61eef/images/CoSyNEPy.jpg" alt="cosynepy-training-scheme" height="500">
-<img src="https://raw.githubusercontent.com/sam1902/sam1902/a068b84b31b42b18c59cf7ee5cd71a75e2a61eef/images/genetic_programming_john_r_koza.jpg" alt="genetic-programming-john-r-koza" height="500">
+<img src="https://raw.githubusercontent.com/usr-ein/usr-ein/a068b84b31b42b18c59cf7ee5cd71a75e2a61eef/images/CoSyNEPy.jpg" alt="cosynepy-training-scheme" height="500">
+<img src="https://raw.githubusercontent.com/usr-ein/usr-ein/a068b84b31b42b18c59cf7ee5cd71a75e2a61eef/images/genetic_programming_john_r_koza.jpg" alt="genetic-programming-john-r-koza" height="500">
 </p>
 
 ___
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?theme=algolia&username=sam1902&repo=Learn-n-Recognize-Cpp)](https://github.com/sam1902/Learn-n-Recognize-Cpp)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?theme=algolia&username=usr-ein&repo=Learn-n-Recognize-Cpp)](https://github.com/usr-ein/Learn-n-Recognize-Cpp)
 
 <p style="text-align: center">
-<img src="https://raw.githubusercontent.com/sam1902/sam1902/a068b84b31b42b18c59cf7ee5cd71a75e2a61eef/images/learnnrecognizecpp.jpg" alt="learn-n-recognize-cpp-2016" height="600">
-<img src="https://raw.githubusercontent.com/sam1902/sam1902/a068b84b31b42b18c59cf7ee5cd71a75e2a61eef/images/haar_cascade_features.gif" alt="haar-cascade-features" height="460">
-<img src="https://raw.githubusercontent.com/sam1902/sam1902/a068b84b31b42b18c59cf7ee5cd71a75e2a61eef/images/haar_face_cascade_sliding_win.gif" alt="haar-cascade-sliding-window" height="460">
+<img src="https://raw.githubusercontent.com/usr-ein/usr-ein/a068b84b31b42b18c59cf7ee5cd71a75e2a61eef/images/learnnrecognizecpp.jpg" alt="learn-n-recognize-cpp-2016" height="600">
+<img src="https://raw.githubusercontent.com/usr-ein/usr-ein/a068b84b31b42b18c59cf7ee5cd71a75e2a61eef/images/haar_cascade_features.gif" alt="haar-cascade-features" height="460">
+<img src="https://raw.githubusercontent.com/usr-ein/usr-ein/a068b84b31b42b18c59cf7ee5cd71a75e2a61eef/images/haar_face_cascade_sliding_win.gif" alt="haar-cascade-sliding-window" height="460">
 </p>
 ___
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?theme=algolia&username=sam1902&repo=NewtonMethodMultivar)](https://github.com/sam1902/NewtonMethodMultivar)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?theme=algolia&username=usr-ein&repo=NewtonMethodMultivar)](https://github.com/usr-ein/NewtonMethodMultivar)
 
 <p style="text-align: center">
-<img src="https://raw.githubusercontent.com/sam1902/sam1902/a068b84b31b42b18c59cf7ee5cd71a75e2a61eef/images/newton_iterations.gif" alt="newton-method-1D" width="400">
-<img src="https://raw.githubusercontent.com/sam1902/sam1902/a068b84b31b42b18c59cf7ee5cd71a75e2a61eef/images/optimizers.gif" alt="neural-netwokrs-optimizers" width="430">
+<img src="https://raw.githubusercontent.com/usr-ein/usr-ein/a068b84b31b42b18c59cf7ee5cd71a75e2a61eef/images/newton_iterations.gif" alt="newton-method-1D" width="400">
+<img src="https://raw.githubusercontent.com/usr-ein/usr-ein/a068b84b31b42b18c59cf7ee5cd71a75e2a61eef/images/optimizers.gif" alt="neural-netwokrs-optimizers" width="430">
 </p>
 ___
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?theme=algolia&username=sam1902&repo=Simplex)](https://github.com/sam1902/Simplex)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?theme=algolia&username=usr-ein&repo=Simplex)](https://github.com/usr-ein/Simplex)
 
 <p style="text-align: center">
-<img src="https://raw.githubusercontent.com/sam1902/sam1902/a068b84b31b42b18c59cf7ee5cd71a75e2a61eef/images/simplex4d_animated.gif" alt="simplex-revolving-4D" width="400">
-<img src="https://raw.githubusercontent.com/sam1902/sam1902/a068b84b31b42b18c59cf7ee5cd71a75e2a61eef/images/Simplex-3D.png" alt="simplex-3D" width="400">
-</p>
-
-___
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?theme=algolia&username=sam1902&repo=BaseQLearning)](https://github.com/sam1902/BaseQLearning)
-
-<p style="text-align: center">
-<img src="https://raw.githubusercontent.com/sam1902/sam1902/a068b84b31b42b18c59cf7ee5cd71a75e2a61eef/images/mario_neat_sethbling_cropped_opti.gif" alt="neural-netwokrs-optimizers" width="430">
-<img src="https://raw.githubusercontent.com/sam1902/sam1902/a068b84b31b42b18c59cf7ee5cd71a75e2a61eef/images/qlearning.gif" alt="qlearning-matrix" width="400">
+<img src="https://raw.githubusercontent.com/usr-ein/usr-ein/a068b84b31b42b18c59cf7ee5cd71a75e2a61eef/images/simplex4d_animated.gif" alt="simplex-revolving-4D" width="400">
+<img src="https://raw.githubusercontent.com/usr-ein/usr-ein/a068b84b31b42b18c59cf7ee5cd71a75e2a61eef/images/Simplex-3D.png" alt="simplex-3D" width="400">
 </p>
 
 ___
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?theme=algolia&username=sam1902&repo=SortingAlgorithms)](https://github.com/sam1902/SortingAlgorithms)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?theme=algolia&username=usr-ein&repo=BaseQLearning)](https://github.com/usr-ein/BaseQLearning)
+
+<p style="text-align: center">
+<img src="https://raw.githubusercontent.com/usr-ein/usr-ein/a068b84b31b42b18c59cf7ee5cd71a75e2a61eef/images/mario_neat_sethbling_cropped_opti.gif" alt="neural-netwokrs-optimizers" width="430">
+<img src="https://raw.githubusercontent.com/usr-ein/usr-ein/a068b84b31b42b18c59cf7ee5cd71a75e2a61eef/images/qlearning.gif" alt="qlearning-matrix" width="400">
+</p>
+
+___
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?theme=algolia&username=usr-ein&repo=SortingAlgorithms)](https://github.com/usr-ein/SortingAlgorithms)
 
 
 <p style="text-align: center">
-<img src="https://raw.githubusercontent.com/sam1902/sam1902/a068b84b31b42b18c59cf7ee5cd71a75e2a61eef/images/sorting_algos.gif" alt="sorting-algos" width="430">
-<img src="https://raw.githubusercontent.com/sam1902/sam1902/a068b84b31b42b18c59cf7ee5cd71a75e2a61eef/images/heapsort.gif" alt="heap-sort" width="400">
+<img src="https://raw.githubusercontent.com/usr-ein/usr-ein/a068b84b31b42b18c59cf7ee5cd71a75e2a61eef/images/sorting_algos.gif" alt="sorting-algos" width="430">
+<img src="https://raw.githubusercontent.com/usr-ein/usr-ein/a068b84b31b42b18c59cf7ee5cd71a75e2a61eef/images/heapsort.gif" alt="heap-sort" width="400">
 </p>
 ___
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?theme=algolia&username=sam1902&repo=Crepe)](https://github.com/sam1902/Crepe)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?theme=algolia&username=usr-ein&repo=Crepe)](https://github.com/usr-ein/Crepe)
 
 <p style="text-align: center">
-<img src="https://raw.githubusercontent.com/sam1902/sam1902/a068b84b31b42b18c59cf7ee5cd71a75e2a61eef/images/LinesVsTriangles.png" alt="crepes-sfml-cpp" width="500">
+<img src="https://raw.githubusercontent.com/usr-ein/usr-ein/a068b84b31b42b18c59cf7ee5cd71a75e2a61eef/images/LinesVsTriangles.png" alt="crepes-sfml-cpp" width="500">
 </p>
 
-![Banner](https://raw.githubusercontent.com/sam1902/sam1902/a068b84b31b42b18c59cf7ee5cd71a75e2a61eef/images/banner_blank_2.png)
+![Banner](https://raw.githubusercontent.com/usr-ein/usr-ein/a068b84b31b42b18c59cf7ee5cd71a75e2a61eef/images/banner_blank_2.png)
 <hr>
 
 Here are some [parrots](https://cultofthepartyparrot.com), thank you [@ashleymavericks](https://github.com/ashleymavericks/ashleymavericks):
