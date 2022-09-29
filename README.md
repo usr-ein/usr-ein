@@ -1,4 +1,3 @@
-![Banner](https://raw.githubusercontent.com/sam1902/sam1902/a068b84b31b42b18c59cf7ee5cd71a75e2a61eef/images/banner_hello.png)
 <p align="center">
 <img src="https://img.shields.io/badge/Tensor Algebra-052a3e?style=flat-square"><img src="https://img.shields.io/badge/Optimisation-001C44?style=flat-square"><img src="https://img.shields.io/badge/Machine Learning-0C5776?style=flat-square"><img src="https://img.shields.io/badge/Deep Learning-2D99AE?style=flat-square"><img src="https://img.shields.io/badge/Computer Vision-BCFEFE?style=flat-square"><img src="https://img.shields.io/badge/Natural Language Processing-ffe5ca?style=flat-square"><img src="https://img.shields.io/badge/DevOps-F8DAD0?style=flat-square"><a href="https://arxiv.org/"><img src="https://img.shields.io/badge/ArXiv Explorer-01df00?&style=flat-square"></a>
 
@@ -10,8 +9,8 @@
 ## Stats
 
 <p style="text-align: center">
-<img src="https://github-readme-stats.vercel.app/api?username=sam1902&theme=algolia&show_icons=true&hide_border=true" alt="dev-stats" height="200">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?theme=algolia&username=sam1902&layout=compact&hide_border=true&langs_count=10&hide=fortran" alt="used-languages" height="200">
+<img src="https://github-readme-stats.vercel.app/api?username=usr-ein&theme=algolia&show_icons=true&hide_border=true" alt="dev-stats" height="200">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?theme=algolia&username=usr-ein&layout=compact&hide_border=true&langs_count=10&hide=fortran" alt="used-languages" height="200">
 </p>
 
 ## Contact me
@@ -19,15 +18,15 @@
 <a href="mailto:samuel.prevost@pm.me"><img src="https://img.shields.io/badge/samuel.prevost@pm.me%20-%23000000.svg?&style=for-the-badge&logo=ProtonMail&logoColor=white" /></a> <a href="https://www.linkedin.com/in/samuel-prevost-027378144/"><img src="https://img.shields.io/badge/Samuel Prevost%20-%230073b1.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" /></a>
 ## Repos
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?theme=algolia&username=sam1902&repo=SpectroGenV2)](https://github.com/sam1902/SpectroGenV2/)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?theme=algolia&username=usr-ein&repo=SpectroGenV2)](https://github.com/usr-ein/SpectroGenV2/)
 
 <p style="text-align: center">
-<img src="https://raw.githubusercontent.com/sam1902/sam1902/a068b84b31b42b18c59cf7ee5cd71a75e2a61eef/images/spectrogen.jpg" alt="spectro" height="600">
+<img src="https://raw.githubusercontent.com/usr-ein/usr-ein/a068b84b31b42b18c59cf7ee5cd71a75e2a61eef/images/spectrogen.jpg" alt="spectro" height="600">
 </p>
 
 ___
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?theme=algolia&username=sam1902&repo=GradCAM-Keras)](https://github.com/sam1902/GradCAM-Keras)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?theme=algolia&username=usr-ein&repo=GradCAM-Keras)](https://github.com/usr-ein/GradCAM-Keras)
 
 <p style="text-align: center">
 <img src="https://raw.githubusercontent.com/sam1902/sam1902/a068b84b31b42b18c59cf7ee5cd71a75e2a61eef/images/grad-cam.gif" alt="grad-cam" height="300">
